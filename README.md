@@ -1,5 +1,5 @@
 # DataScienceGame2016
-Solution to the competition's 1st round : https://inclass.kaggle.com/c/data-science-game-2016-online-selection
+Here is my solution to the competition's 1st round : https://inclass.kaggle.com/c/data-science-game-2016-online-selection     
 Competition Website : http://www.datasciencegame.com/					
 ## PROBLEM STATEMENT AND COMPETITION DETAILS
 For the second year in a row the Data Science Game, a data science and machine learning international student contest, was held in Paris, France in September, 2016. 143 teams, three times as much as in 2015, representing more than 50 universities from 28 different countries (view the map), faced real-life business challenges. To stand out in this competition, students were asked to conceive and implement predictive models in order to solve Big Data-related issues.
